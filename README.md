@@ -4,6 +4,7 @@ Shortcuts I frequently use:
 - Win-I (open settings)
 - Ctrl-Shift-Esc (Task Manager)
 - Win-R (Run)
+  
 Shortcuts I would to start using:
 - Win-M (Minimize all windows)
 - Win- Arrow keys (Change the arrangement of windows on screen)
