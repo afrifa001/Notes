@@ -5,7 +5,7 @@ Shortcuts I frequently use:
 - Ctrl-Shift-Esc (Task Manager)
 - Win-R (Run)
   
-Shortcuts I would to start using:
+Shortcuts I would like to start using:
 - Win-M (Minimize all windows)
 - Win- Arrow keys (Change the arrangement of windows on screen)
 - Win-N (Open notifications pane)
